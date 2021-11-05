@@ -1,10 +1,10 @@
 <section id="content">
     <iframe src="https://maps.google.com/maps?q=desa%20plancungan%20kecamatan%20slahung%20ponorogo&t=&z=15&ie=UTF8&iwloc=&output=embed" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-    <div class="container mt-5">
+    <div class="container">
         <div class="row">
             <div class="span8">
-                <h4>Ingin menghubungi kami? Silahkan masukkan data Anda pada form dibawah</h4>
+                <h5>Ingin menghubungi kami? Silahkan masukkan data Anda pada form dibawah!</h5>
 
                 <div id="sendmessage">Terimkasih, pesan Anda telah dikirim!</div>
                 <div id="errormessage"></div>

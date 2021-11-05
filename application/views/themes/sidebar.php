@@ -5,7 +5,7 @@
         <div class="widget">
             <form>
                 <div class="input-append">
-                    <input class="span2" id="appendedInputButton" type="text" placeholder="Type here">
+                    <input class="span2" id="appendedInputButton" type="text" placeholder="Ketik disini...">
                     <button class="btn btn-theme" type="submit">Cari</button>
                 </div>
             </form>
@@ -76,8 +76,8 @@
         <div class="widget">
 
             <h5 class="widgetheading">Text widget</h5>
-            <p>
-                Desa Plancungan merupakan desa yang memiliki potensi industri kerajinan gerabah.
+            <p style="text-align: justify;">
+            Desa Plancungan merupakan desa yang memiliki potensi industri kerajinan gerabah. <br> Desa Plancungan berada di kecamatan Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia.
             </p>
 
         </div>
