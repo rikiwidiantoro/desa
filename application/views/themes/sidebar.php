@@ -22,7 +22,7 @@
             </ul>
         </div>
 
-        <div class="widget">
+        <!-- <div class="widget">
             <div class="tabs">
                 <ul class="nav nav-tabs">
                     <li class="active"><a href="#one" data-toggle="tab"><i class="icon-star"></i> Popular</a></li>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
 
         <div class="widget">
