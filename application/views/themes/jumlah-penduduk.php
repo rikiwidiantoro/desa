@@ -4,7 +4,7 @@
             <div class="span12">
                 <div class="aligncenter">
                     <h3>Jumlah <strong>Penduduk</strong></h3>
-                    <p>Berikut ini adalah data penduduk terbaru Desa Bahari. Data penduduk ini selalu
+                    <p>Berikut ini adalah data penduduk terbaru Desa Plancungan. Data penduduk ini selalu
                         diupdate setiap bulannya.</p>
                 </div>
             </div>
