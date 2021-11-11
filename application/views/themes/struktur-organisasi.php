@@ -31,9 +31,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kades.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA JIDI</h5>
+                                        <h5>NURI PRASETIYO, SE.</h5>
                                         <p>KEPALA DESA</p>
-                                        <ul class="social-network">
+                                        <!-- <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -54,7 +54,7 @@
                                                     <i class="icon-circled icon-bglight icon-instagram active"></i>
                                                 </a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </li>
@@ -65,9 +65,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/sekdes.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>MURDINI, S.I.P.</h5>
+                                        <h5>SARNO</h5>
                                         <p>SEKRETARIS DESA</p>
-                                        <ul class="social-network">
+                                        <!-- <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -83,7 +83,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </li>
@@ -94,9 +94,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/keuangan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>KARMAN K.</h5>
-                                        <p>KAUR PEMBANGUNAN</p>
-                                        <ul class="social-network">
+                                        <h5>KUSMIJATI</h5>
+                                        <p>KEPALA URUSAN TATA USAHA dan UMUM</p>
+                                        <!-- <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -112,7 +112,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </li>
@@ -123,8 +123,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/umum.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>SUDIRYANTO</h5>
-                                        <p>KAUR UMUM & PERENCANAAN</p>
+                                        <h5>SRINI WATI</h5>
+                                        <p>KEPALA URUSAN KEUANGAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -240,6 +240,35 @@
                                     <div class="caption">
                                         <h5>LA BAMA</h5>
                                         <p>KADUS WAPULAKA</p>
+                                        <!-- <ul class="social-network">
+                                            <li>
+                                                <a href="#" title="Twitter">
+                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Google +">
+                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Facebook">
+                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                </a>
+                                            </li>
+                                        </ul> -->
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- End Item Project -->
+
+                            <!-- Item Project and Filter Name -->
+                            <li class="item-thumbs span3 kaur" data-id="id-4" data-type="kasi">
+                                <div class="team-box thumbnail animated-slow flyIn">
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
+                                    <div class="caption">
+                                        <h5>LA ODE HARIMU</h5>
+                                        <p>KASI PEMERINTAHAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -257,6 +286,92 @@
                                                 </a>
                                             </li>
                                         </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- End Item Project -->
+
+                            <!-- Item Project and Filter Name -->
+                            <li class="item-thumbs span3 kaur" data-id="id-5" data-type="kasi">
+                                <div class="team-box thumbnail animated-slow flyIn">
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
+                                    <div class="caption">
+                                        <h5>DISMAN</h5>
+                                        <p>KASI KESRA & PELAYANAN</p>
+                                        <ul class="social-network">
+                                            <li>
+                                                <a href="http://twitter.com/disman" target="_blank" title="Twitter">
+                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="http://plus.google.com/kang.disman" target="_blank" title="Google +">
+                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="http://facebook.com/kang.disman" target="_blank" title="Facebook">
+                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- End Item Project -->
+
+                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
+                                <div class="team-box thumbnail animated-slow flyIn">
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
+                                    <div class="caption">
+                                        <h5>LA RUO, S.Ag.</h5>
+                                        <p>KADUS NGAPAOMPU</p>
+                                        <ul class="social-network">
+                                            <li>
+                                                <a href="#" title="Twitter">
+                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Google +">
+                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Facebook">
+                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- End Item Project -->
+
+                            <!-- Item Project and Filter Name -->
+                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
+                                <div class="team-box thumbnail animated-slow flyIn">
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
+                                    <div class="caption">
+                                        <h5>LA BAMA</h5>
+                                        <p>KADUS WAPULAKA</p>
+                                        <!-- <ul class="social-network">
+                                            <li>
+                                                <a href="#" title="Twitter">
+                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Google +">
+                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" title="Facebook">
+                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                </a>
+                                            </li>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </li>
