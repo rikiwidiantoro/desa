@@ -3,7 +3,7 @@
     <div class="row animated-slow flyIn">
         <div class="span12">
             <div class="aligncenter">
-                <h3>Struktur Organisasi <strong>Pemerintah Desa Bahari</strong></h3>
+                <h3>Struktur Organisasi <strong>Pemerintah Desa Plancungan</strong></h3>
                 <p></p>
             </div>
         </div>
@@ -148,7 +148,7 @@
                             <!-- End Item Project -->
 
                             <!-- Item Project and Filter Name -->
-                            <li class="item-thumbs span3 kaur" data-id="id-4" data-type="kasi">
+                            <li class="item-thumbs span3 kaur" data-id="id-4" data-type="kaur">
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
                                     <div class="caption">
@@ -177,7 +177,7 @@
                             <!-- End Item Project -->
 
                             <!-- Item Project and Filter Name -->
-                            <li class="item-thumbs span3 kaur" data-id="id-5" data-type="kasi">
+                            <li class="item-thumbs span3 kaur" data-id="id-5" data-type="kadus">
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
                                     <div class="caption">
@@ -320,7 +320,7 @@
                             </li>
                             <!-- End Item Project -->
 
-                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
+                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
                                     <div class="caption">
@@ -349,7 +349,7 @@
                             <!-- End Item Project -->
 
                             <!-- Item Project and Filter Name -->
-                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
+                            <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
                                     <div class="caption">
