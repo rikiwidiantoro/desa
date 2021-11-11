@@ -5,7 +5,7 @@
                 <div class="aligncenter">
                     <h3>Jumlah <strong>Penduduk</strong></h3>
                     <p>Berikut ini adalah data penduduk terbaru Desa Plancungan. Data penduduk ini selalu
-                        diupdate setiap bulannya.</p>
+                        diupdate setiap tahunnya.</p>
                 </div>
             </div>
         </div>
@@ -16,15 +16,16 @@
             <div class="span3">
                 <div class="pricing-box-wrap animated-slow flyIn">
                     <div class="pricing-heading">
-                        <h3>Total <strong>Balita</strong></h3>
+                        <h3>Dukuh <br><strong>JETIS</strong></h3>
                     </div>
                     <div class="pricing-terms">
-                        <h6>Total 200 Orang</h6>
+                        <h6>Total 585 Orang</h6>
                     </div>
                     <div class="pricing-content">
                         <ul>
-                            <li><i class="icon-ok"></i> Laki-Laki 100 Orang</li>
-                            <li><i class="icon-ok"></i> Perempuan 100 Orang</li>
+                            <li><i class="icon-ok"></i> Laki-Laki 288 Orang</li>
+                            <li><i class="icon-ok"></i> Perempuan 297 Orang</li>
+                            <li><i class="icon-ok"></i> Kartu Keluarga : 202</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
@@ -37,15 +38,16 @@
             <div class="span3">
                 <div class="pricing-box-wrap animated-slow flyIn">
                     <div class="pricing-heading">
-                        <h3>Total <strong>Dewasa</strong></h3>
+                        <h3>Dukuh <br><strong>ASEMLEGI</strong></h3>
                     </div>
                     <div class="pricing-terms">
-                        <h6>Total 300 Orang</h6>
+                        <h6>Total 475 Orang</h6>
                     </div>
                     <div class="pricing-content">
                         <ul>
-                            <li><i class="icon-ok"></i> Laki-Laki 140 Orang</li>
-                            <li><i class="icon-ok"></i> Perempuan 160 Orang</li>
+                            <li><i class="icon-ok"></i> Laki-Laki 246 Orang</li>
+                            <li><i class="icon-ok"></i> Perempuan 229 Orang</li>
+                            <li><i class="icon-ok"></i> Kartu Keluarga : 172</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
@@ -58,15 +60,16 @@
             <div class="span3">
                 <div class="pricing-box-wrap animated-slow flyIn">
                     <div class="pricing-heading">
-                        <h3>Total <strong>Lansia</strong></h3>
+                        <h3>Dukuh <strong>BRENGGOLO</strong></h3>
                     </div>
                     <div class="pricing-terms">
-                        <h6>Total 120 Orang</h6>
+                        <h6>Total 450 Orang</h6>
                     </div>
                     <div class="pricing-content">
                         <ul>
-                            <li><i class="icon-ok"></i> Laki-Laki 70 Orang</li>
-                            <li><i class="icon-ok"></i> Perempuan 50 Orang</li>
+                            <li><i class="icon-ok"></i> Laki-Laki 228 Orang</li>
+                            <li><i class="icon-ok"></i> Perempuan 222 Orang</li>
+                            <li><i class="icon-ok"></i> Kartu Keluarga : 164</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
@@ -79,20 +82,23 @@
             <div class="span3">
                 <div class="pricing-box-wrap special animated-slow flyIn">
                     <div class="pricing-heading">
-                        <h3>Total <strong>Penduduk</strong></h3>
+                        <h3>Total <br><strong>Penduduk</strong></h3>
                     </div>
                     <div class="pricing-terms">
-                        <h6>Total <?= $penduduk; ?> Orang</h6>
+                        <h6>Total 1.510 Orang</h6>
                     </div>
                     <div class="pricing-content">
                         <ul>
-                            <li><i class="icon-ok"></i> Laki-Laki 9 Orang</li>
-                            <li><i class="icon-ok"></i> Perempuan 9 Orang</li>
+                            <li><i class="icon-ok"></i> Laki-Laki 762 Orang</li>
+                            <li><i class="icon-ok"></i> Perempuan 748 Orang</li>
+                            <li><i class="icon-ok"></i> Kartu Keluarga : 538</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
-                        <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
-                            Lihat Data</a>
+                        <!-- <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
+                            Lihat Data</a> -->
+                        <h5 class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
+                        Kartu Keluarga : 538</h5>>
                     </div>
                 </div>
             </div>
