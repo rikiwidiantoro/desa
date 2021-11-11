@@ -67,7 +67,7 @@
                                     <div class="caption">
                                         <h5>SARNO</h5>
                                         <p>SEKRETARIS DESA</p>
-                                        <!-- <ul class="social-network">
+                                        <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -83,7 +83,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
@@ -96,7 +96,7 @@
                                     <div class="caption">
                                         <h5>KUSMIJATI</h5>
                                         <p>KEPALA URUSAN TATA USAHA dan UMUM</p>
-                                        <!-- <ul class="social-network">
+                                        <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -112,7 +112,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
@@ -152,8 +152,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA ODE HARIMU</h5>
-                                        <p>KASI PEMERINTAHAN</p>
+                                        <h5>TASLIM, BA</h5>
+                                        <p>KEPALA URUSAN PERENCANAAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -181,9 +181,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>DISMAN</h5>
-                                        <p>KASI KESRA & PELAYANAN</p>
-                                        <ul class="social-network">
+                                        <h5>SUNGGING EKA KUSUMA</h5>
+                                        <p>KAMITUWO DUKUH JETIS</p>
+                                        <!-- <ul class="social-network">
                                             <li>
                                                 <a href="http://twitter.com/disman" target="_blank" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -199,7 +199,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul>
+                                        </ul> -->
                                     </div>
                                 </div>
                             </li>
@@ -209,8 +209,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA RUO, S.Ag.</h5>
-                                        <p>KADUS NGAPAOMPU</p>
+                                        <h5>PUGUH SANTOSA</h5>
+                                        <p>KAMITUWO DUKUH ASEMLEGI</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -238,9 +238,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA BAMA</h5>
-                                        <p>KADUS WAPULAKA</p>
-                                        <!-- <ul class="social-network">
+                                        <h5>PARNO</h5>
+                                        <p>KAMITUWO DUKUH BRENGGOLO</p>
+                                        <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -256,7 +256,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
@@ -267,8 +267,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA ODE HARIMU</h5>
-                                        <p>KASI PEMERINTAHAN</p>
+                                        <h5>ROMADONI SAIFUL HAKIM</h5>
+                                        <p>KEPALA SEKSI PEMERINTAHAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -296,8 +296,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>DISMAN</h5>
-                                        <p>KASI KESRA & PELAYANAN</p>
+                                        <h5>MAULA ALFIN AMARO</h5>
+                                        <p>KEPALA SEKSI KESEJAHTERAAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="http://twitter.com/disman" target="_blank" title="Twitter">
@@ -324,8 +324,8 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA RUO, S.Ag.</h5>
-                                        <p>KADUS NGAPAOMPU</p>
+                                        <h5>SARTO</h5>
+                                        <p>KEPALA SEKSI PELAYANAN</p>
                                         <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
@@ -353,9 +353,9 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>LA BAMA</h5>
-                                        <p>KADUS WAPULAKA</p>
-                                        <!-- <ul class="social-network">
+                                        <h5>TITI MARGI RAHAYU</h5>
+                                        <p>STAF URUSAN KEUANGAN</p>
+                                        <ul class="social-network">
                                             <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
@@ -371,7 +371,7 @@
                                                     <i class="icon-circled icon-bglight icon-facebook active"></i>
                                                 </a>
                                             </li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
