@@ -25,12 +25,11 @@
                         <ul>
                             <li><i class="icon-ok"></i> Laki-Laki 288 Orang</li>
                             <li><i class="icon-ok"></i> Perempuan 297 Orang</li>
-                            <li><i class="icon-ok"></i> Kartu Keluarga : 202</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
-                        <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
-                            Lihat Data</a>
+                        <a href="#" class="btn btn-medium btn-theme">
+                        Kartu Keluarga : 202</a>
                     </div>
                 </div>
             </div>
@@ -47,12 +46,11 @@
                         <ul>
                             <li><i class="icon-ok"></i> Laki-Laki 246 Orang</li>
                             <li><i class="icon-ok"></i> Perempuan 229 Orang</li>
-                            <li><i class="icon-ok"></i> Kartu Keluarga : 172</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
-                        <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
-                            Lihat Data</a>
+                        <a href="#" class="btn btn-medium btn-theme">
+                        Kartu Keluarga : 172</a>
                     </div>
                 </div>
             </div>
@@ -100,8 +98,8 @@
                     </div>
                 </div>
             </div>
+            <p><i>           *terakhir diperbaharui : Januari 2021</i></p>
         </div>
-
     </div>
 
 </div>
