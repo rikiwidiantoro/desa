@@ -69,12 +69,11 @@
                         <ul>
                             <li><i class="icon-ok"></i> Laki-Laki 228 Orang</li>
                             <li><i class="icon-ok"></i> Perempuan 222 Orang</li>
-                            <li><i class="icon-ok"></i> Kartu Keluarga : 164</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
-                        <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
-                            Lihat Data</a>
+                        <a href="#" class="btn btn-medium btn-theme">
+                        Kartu Keluarga : 164</a>
                     </div>
                 </div>
             </div>
@@ -91,13 +90,12 @@
                         <ul>
                             <li><i class="icon-ok"></i> Laki-Laki 762 Orang</li>
                             <li><i class="icon-ok"></i> Perempuan 748 Orang</li>
-                            <li><i class="icon-ok"></i> Kartu Keluarga : 538</li>
                         </ul>
                     </div>
                     <div class="pricing-action">
                         <!-- <a href="#" class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
                             Lihat Data</a> -->
-                        <h5 class="btn btn-medium btn-theme"><i class="icon-chevron-down"></i>
+                        <h5 class="btn btn-medium btn-theme">
                         Kartu Keluarga : 538</h5>>
                     </div>
                 </div>
