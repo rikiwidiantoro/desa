@@ -9,7 +9,6 @@
                             <li><a href="#"><?= $row['category']; ?></a></li>
                         </ul>
                     <?php endforeach; ?>
-
                 </div>
             </div>
             <div class="span4">
