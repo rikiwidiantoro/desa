@@ -31,7 +31,7 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kades.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>NURI PRASETIYO, SE.</h5>
+                                        <h6><b>NURI PRASETIYO, SE.</b></h6>
                                         <p>KEPALA DESA</p>
                                         <ul class="social-network text-left">
                                             <li>
@@ -75,7 +75,7 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/sekdes.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>SARNO</h5>
+                                        <h6><b>SARNO</b></h6>
                                         <p>SEKRETARIS DESA</p>
                                         <ul class="social-network text-left">
                                             <li>
@@ -99,22 +99,12 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/keuangan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>KUSMIJATI</h5>
+                                        <h6><b>KUSMIJATI</b></h6>
                                         <p>KEPALA URUSAN TATA USAHA dan UMUM</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0857 3210 5519
                                                 </a>
                                             </li>
                                         </ul>
@@ -132,21 +122,12 @@
                                         <p>KEPALA URUSAN KEUANGAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0855 5967 8382
                                                 </a>
                                             </li>
                                         </ul>
+                                        <br>
                                     </div>
                                 </div>
                             </li>
