@@ -33,8 +33,18 @@
                                     <div class="caption">
                                         <h5>NURI PRASETIYO, SE.</h5>
                                         <p>KEPALA DESA</p>
-                                        <!-- <ul class="social-network">
+                                        <ul class="social-network text-left">
                                             <li>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0813 3538 4342
+                                                </a>
+                                            </li><br>
+                                            <li>
+                                                <a href="https://www.instagram.com/nuri_prasetiyo/" target="_blank" title="Instagram">
+                                                    <i class="icon-circled icon-bglight icon-instagram active"></i> nuri_prasetiyo
+                                                </a>
+                                            </li>
+                                            <!-- <li>
                                                 <a href="#" title="Twitter">
                                                     <i class="icon-circled icon-bglight icon-twitter active"></i>
                                                 </a>
@@ -53,8 +63,8 @@
                                                 <a href="#" title="Instagram">
                                                     <i class="icon-circled icon-bglight icon-instagram active"></i>
                                                 </a>
-                                            </li>
-                                        </ul> -->
+                                            </li> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
@@ -67,20 +77,15 @@
                                     <div class="caption">
                                         <h5>SARNO</h5>
                                         <p>SEKRETARIS DESA</p>
-                                        <ul class="social-network">
+                                        <ul class="social-network text-left">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0852 0434 8565
                                                 </a>
-                                            </li>
+                                            </li><br>
                                             <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a href="https://www.instagram.com/sarno.notobotosedoso/" target="_blank" title="Instagram">
+                                                    <i class="icon-circled icon-bglight icon-instagram active"></i> sarno.notobotosedoso
                                                 </a>
                                             </li>
                                         </ul>
