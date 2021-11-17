@@ -21,7 +21,7 @@
                     </address>
                     <p>
                         Kontak : <br>
-                        <i class="icon-phone"></i> 0852-9262-6598 <br>
+                        <i class="icon-phone"></i> 0813 3538 4342<br>
                         <i class="icon-envelope-alt"></i> desaplancungan@gmail.com
                     </p>
                 </div>

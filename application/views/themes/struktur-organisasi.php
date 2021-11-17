@@ -108,6 +108,7 @@
                                                 </a>
                                             </li>
                                         </ul>
+                                        <br>
                                     </div>
                                 </div>
                             </li>
@@ -118,7 +119,7 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/umum.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>SRINI WATI</h5>
+                                        <h6><b>SRINI WATI</b></h6>
                                         <p>KEPALA URUSAN KEUANGAN</p>
                                         <ul class="social-network">
                                             <li>
@@ -127,7 +128,7 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                        <br>
+                                        <br><br>
                                     </div>
                                 </div>
                             </li>
@@ -138,22 +139,12 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>TASLIM, BA</h5>
+                                        <h6><b>TASLIM, BA</b></h6>
                                         <p>KEPALA URUSAN PERENCANAAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0812 4960 0473
                                                 </a>
                                             </li>
                                         </ul>
@@ -167,25 +158,15 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>SUNGGING EKA KUSUMA</h5>
+                                        <h6><b>SUNGGING EKA KUSUMA</b></h6>
                                         <p>KAMITUWO DUKUH JETIS</p>
-                                        <!-- <ul class="social-network">
+                                        <ul class="social-network">
                                             <li>
-                                                <a href="http://twitter.com/disman" target="_blank" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0821 3293 4393
                                                 </a>
                                             </li>
-                                            <li>
-                                                <a href="http://plus.google.com/kang.disman" target="_blank" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="http://facebook.com/kang.disman" target="_blank" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
-                                                </a>
-                                            </li>
-                                        </ul> -->
+                                        </ul>
                                     </div>
                                 </div>
                             </li>
@@ -195,22 +176,12 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>PUGUH SANTOSA</h5>
+                                        <h6><b>PUGUH SANTOSA</b></h6>
                                         <p>KAMITUWO DUKUH ASEMLEGI</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0852 5990 0049
                                                 </a>
                                             </li>
                                         </ul>
@@ -224,22 +195,12 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>PARNO</h5>
+                                        <h6><b>PARNO</b></h6>
                                         <p>KAMITUWO DUKUH BRENGGOLO</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0823 3255 4395
                                                 </a>
                                             </li>
                                         </ul>
@@ -253,22 +214,17 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>ROMADONI SAIFUL HAKIM</h5>
+                                        <h6><b>ROMADONI SAIFUL HAKIM</b></h6>
                                         <p>KEPALA SEKSI PEMERINTAHAN</p>
-                                        <ul class="social-network">
+                                        <ul class="social-network text-left">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0853 3534 5324
                                                 </a>
-                                            </li>
+                                            </li><br>
                                             <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a href="https://www.instagram.com/ramadani_prkc/" target="_blank" title="Instagram">
+                                                    <i class="icon-circled icon-bglight icon-instagram active"></i> ramadani_prkc
                                                 </a>
                                             </li>
                                         </ul>
@@ -282,22 +238,17 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>MAULA ALFIN AMARO</h5>
+                                        <h6><b>MAULA ALFIN AMARO</b></h6>
                                         <p>KEPALA SEKSI KESEJAHTERAAN</p>
-                                        <ul class="social-network">
+                                        <ul class="social-network text-left">
                                             <li>
-                                                <a href="http://twitter.com/disman" target="_blank" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0812 2411 9152
                                                 </a>
-                                            </li>
+                                            </li><br>
                                             <li>
-                                                <a href="http://plus.google.com/kang.disman" target="_blank" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="http://facebook.com/kang.disman" target="_blank" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a href="https://www.instagram.com/maulaalpinamaro/" target="_blank" title="Instagram">
+                                                    <i class="icon-circled icon-bglight icon-instagram active"></i> maulaalpinamaro
                                                 </a>
                                             </li>
                                         </ul>
@@ -310,25 +261,16 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>SARTO</h5>
+                                        <h6><b>SARTO</b></h6>
                                         <p>KEPALA SEKSI PELAYANAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0822 3296 0756
                                                 </a>
                                             </li>
                                         </ul>
+                                        <br><br><br>
                                     </div>
                                 </div>
                             </li>
@@ -339,25 +281,21 @@
                                 <div class="team-box thumbnail animated-slow flyIn">
                                     <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
                                     <div class="caption">
-                                        <h5>TITI MARGI RAHAYU</h5>
+                                        <h6><b>TITI MARGI RAHAYU</b></h6>
                                         <p>STAF URUSAN KEUANGAN</p>
-                                        <ul class="social-network">
+                                        <ul class="social-network text-left">
                                             <li>
-                                                <a href="#" title="Twitter">
-                                                    <i class="icon-circled icon-bglight icon-twitter active"></i>
+                                                <a title="Telepon / Whatsapp">
+                                                    <i class="icon-circled icon-bglight icon-phone active"></i> 0812 3259 2282
                                                 </a>
-                                            </li>
+                                            </li><br>
                                             <li>
-                                                <a href="#" title="Google +">
-                                                    <i class="icon-circled icon-bglight icon-google-plus active"></i>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="Facebook">
-                                                    <i class="icon-circled icon-bglight icon-facebook active"></i>
+                                                <a href="https://www.instagram.com/titi.margiraa/" target="_blank" title="Instagram">
+                                                    <i class="icon-circled icon-bglight icon-instagram active"></i> titi.margiraa
                                                 </a>
                                             </li>
                                         </ul>
+                                        <br><br>
                                     </div>
                                 </div>
                             </li>
