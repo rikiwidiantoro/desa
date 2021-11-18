@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="span12 aligncenter">
+    <!-- <div class="span12 aligncenter">
         <h3 class="title">Testimoni <strong> Pengunjung</strong></h3>
         <div class="blankline30"></div>
 
@@ -36,14 +36,14 @@
             </li>
         </ul>
 
-    </div>
+    </div> -->
 </div>
 
 </div>
 </section>
 
-<div class="row">
+<!-- <div class="row">
     <div class="span12">
         <div class="solidline"></div>
     </div>
-</div>
+</div> -->
