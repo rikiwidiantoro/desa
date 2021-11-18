@@ -32,6 +32,19 @@
                         <?php endforeach; ?>
                     </tbody>
                 </table>
+
+                <!-- new table -->
+                <table>
+                    <thead>
+
+                    </thead>
+
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+                <!-- akhir new table -->
+
                 <div id="pagination">
                     <span class="all">Page 1 of 3</span>
                     <span class="current">1</span>
