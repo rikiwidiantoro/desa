@@ -34,7 +34,8 @@
                 </table> -->
 
                 <!-- new table -->
-                <table border="1" cellpadding="5">
+                <h4><b>Dukuh Jetis</b></h4>
+                <table border="2" cellpadding="7" width="700">
                     <!-- <thead>
                         <tr>
                             <th>NO<th>
@@ -45,8 +46,8 @@
                             <th>W<th>
                         </tr>
                     </thead> -->
-                    <tbody>
-                        <tr>
+                    <tbody style="text-align:center;">
+                        <tr style="font-weight:bold; background-color:lightgrey;">
                             <td>NO</td>
                             <td>JETIS</td>
                             <td>L</td>
@@ -56,17 +57,177 @@
                         </tr>
                         <tr>
                             <td>1</td>
-                            <td>Sehat <br> RT 02/RW 01</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
                             <td>49</td>
                             <td>60</td>
                             <td>36</td>
                             <td>29</td>
                         </tr>
-                        
+                        <tr>
+                            <td>2</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Jumlah</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+
+                <h4><b>Dukuh Asem Legi</b></h4>
+                <table border="2" cellpadding="7" width="700">
+                    <!-- <thead>
+                        <tr>
+                            <th>NO<th>
+                            <th>JETIS<th>
+                            <th>L<th>
+                            <th>P<th>
+                            <th>KK<th>
+                            <th>W<th>
+                        </tr>
+                    </thead> -->
+                    <tbody style="text-align:center;">
+                        <tr style="font-weight:bold; background-color:lightgrey;">
+                            <td>NO</td>
+                            <td>ASEM LEGI</td>
+                            <td>L</td>
+                            <td>P</td>
+                            <td>KK</td>
+                            <td>W</td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Jumlah</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br><br>
+
+                <h4><b>Dukuh Brenggolo</b></h4>
+                <table border="2" cellpadding="7" width="700">
+                    <!-- <thead>
+                        <tr>
+                            <th>NO<th>
+                            <th>JETIS<th>
+                            <th>L<th>
+                            <th>P<th>
+                            <th>KK<th>
+                            <th>W<th>
+                        </tr>
+                    </thead> -->
+                    <tbody style="text-align:center;">
+                        <tr style="font-weight:bold; background-color:lightgrey;">
+                            <td>NO</td>
+                            <td>BRENGGOLO</td>
+                            <td>L</td>
+                            <td>P</td>
+                            <td>KK</td>
+                            <td>W</td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td style="text-align:left;">Sehat <br> RT 02/RW 01</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">Jumlah</td>
+                            <td>49</td>
+                            <td>60</td>
+                            <td>36</td>
+                            <td>29</td>
+                        </tr>
                     </tbody>
                 </table>
                 <!-- akhir new table -->
 
+
+                <br><br>
                 <div id="pagination">
                     <span class="all">Page 1 of 3</span>
                     <span class="current">1</span>
