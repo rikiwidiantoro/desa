@@ -16,13 +16,13 @@
                     <h5 class="widgetheading">Alamat</h5>
                     <address>
                         <strong>Kantor Desa Plancungan</strong><br>
-                        Jl. Sawunggaling, Desa Plancungan, Kecamatan Slahung,<br>
-                        Kabupaten Ponorogo. Kode Pos 63463 <br> Jawa Timur, Indonesia
+                        Jl. Sawunggaling No.1, Desa Plancungan,<br> Kecamatan Slahung,
+                        Kabupaten Ponorogo.<br> Kode Pos 63463 - Jawa Timur, Indonesia
                     </address>
                     <p>
                         Kontak : <br>
                         <i class="icon-phone"></i> 0813 3538 4342<br>
-                        <i class="icon-envelope-alt"></i> desaplancungan@gmail.com
+                        <i class="icon-envelope-alt"></i> pemdesplancungan@gmail.com
                     </p>
                 </div>
             </div>
