@@ -3,12 +3,14 @@
         <div class="row">
             <div class="span4">
                 <div class="widget">
-                    <h5 class="widgetheading">Kategori</h5>
+                    <!-- <h5 class="widgetheading">Kategori</h5>
                     <?php foreach ($kategori as $row) : ?>
                         <ul class="link-list">
                             <li><a href="#"><?= $row['category']; ?></a></li>
                         </ul>
-                    <?php endforeach; ?>
+                    <?php endforeach; ?> -->
+                    <h5 class="widgetheading">Sosial Media</h5>
+                    
                 </div>
             </div>
             <div class="span4">
