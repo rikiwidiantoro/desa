@@ -43,7 +43,7 @@
                         <ul class="contact-info">
                             <li><label>Alamat :</label> Desa Plancungan, Kecamatan Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia<br /> <i>Kode Pos 63463<i></li>
                             <li><label>Phone :</label> 0813 3538 4342</li>
-                            <li><label>Email : </label> desaplancungan@gmail.com</li>
+                            <li><label>Email : </label> pemdesplancungan@gmail.com</li>
                         </ul>
 
                     </div>
