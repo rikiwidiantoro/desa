@@ -11,9 +11,9 @@
                     <?php endforeach; ?> -->
                     <h5 class="widgetheading">Sosial Media</h5>
                     
-                    <i class="icon-phone"></i> 0813 3538 4342
+                    <a title="Telepon"><i class="icon-phone"></i> 0813 3538 4342</a>
                     <br>
-                    <a href="#" data-placement="bottom" title="Google +"><i class="icon-google-plus icon-white"></i> pemdesplancungan@gmail.com</a>
+                    <a title="Google +"><i class="icon-google-plus icon-white"></i> pemdesplancungan@gmail.com</a>
                     <br>
                     <a href="https://instagram.com/desaplancungan?utm_medium=copy_link" target="_blank" data-placement="bottom" title="Instagram"><i class="icon-instagram icon-white"></i> desaplancungan</a>
                     <br>
@@ -28,11 +28,11 @@
                         Jl. Sawunggaling No.1, Desa Plancungan,<br> Kecamatan Slahung,
                         Kabupaten Ponorogo.<br> Kode Pos 63463 - Jawa Timur, Indonesia
                     </address>
-                    <p>
+                    <!-- <p>
                         Kontak : <br>
                         <i class="icon-phone"></i> 0813 3538 4342<br>
                         <i class="icon-envelope-alt"></i> pemdesplancungan@gmail.com
-                    </p>
+                    </p> -->
                 </div>
             </div>
             <div class="span4">
