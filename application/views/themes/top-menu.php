@@ -32,12 +32,12 @@
 
 
         <div class="row nomargin">
-            <div class="span4">
+            <div class="span2">
                 <div class="logo">
-                    <a href="<?= base_url(); ?>"><img src="<?php echo base_url('public/'); ?>img/logobahari.png" alt="" /></a>
+                    <a href="<?= base_url(); ?>"><img src="<?php echo base_url('public/'); ?>img/logoplancungan.png" alt="" /></a>
                 </div>
             </div>
-            <div class="span8">
+            <div class="span10">
                 <div class="navbar navbar-static-top">
                     <div class="navigation">
                         <nav>

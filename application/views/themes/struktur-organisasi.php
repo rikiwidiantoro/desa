@@ -29,7 +29,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kades" data-id="id-0" data-type="kades">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/kades.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Kepala Desa.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>NURI PRASETIYO, SE.</b></h6>
                                         <p>KEPALA DESA</p>
@@ -73,7 +73,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 sekdes" data-id="id-1" data-type="sekdes">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/sekdes.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Sarno.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>SARNO</b></h6>
                                         <p>SEKRETARIS DESA</p>
@@ -97,7 +97,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kasi" data-id="id-2" data-type="kaur">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/keuangan.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Kusmijati.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>KUSMIJATI</b></h6>
                                         <p>KEPALA URUSAN TATA USAHA dan UMUM</p>
@@ -108,7 +108,6 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                        <br>
                                     </div>
                                 </div>
                             </li>
@@ -117,7 +116,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kasi" data-id="id-0" data-type="kaur">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/umum.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Srini wati.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>SRINI WATI</b></h6>
                                         <p>KEPALA URUSAN KEUANGAN</p>
@@ -137,7 +136,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kaur" data-id="id-4" data-type="kaur">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Taslim, BA.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>TASLIM, BA</b></h6>
                                         <p>KEPALA URUSAN PERENCANAAN</p>
@@ -156,7 +155,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kaur" data-id="id-5" data-type="kadus">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Sungging eka kusuma.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>SUNGGING EKA KUSUMA</b></h6>
                                         <p>KAMITUWO DUKUH JETIS</p>
@@ -174,7 +173,7 @@
 
                             <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Puguh Santoso.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>PUGUH SANTOSA</b></h6>
                                         <p>KAMITUWO DUKUH ASEMLEGI</p>
@@ -193,7 +192,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kadus">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Parno = kamituwo brenggolo.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>PARNO</b></h6>
                                         <p>KAMITUWO DUKUH BRENGGOLO</p>
@@ -205,6 +204,7 @@
                                             </li>
                                         </ul>
                                     </div>
+                                    <br>
                                 </div>
                             </li>
                             <!-- End Item Project -->
@@ -212,7 +212,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kaur" data-id="id-4" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/pemerintahan.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Romadoni saiful hakim.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>ROMADONI SAIFUL HAKIM</b></h6>
                                         <p>KEPALA SEKSI PEMERINTAHAN</p>
@@ -236,7 +236,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kaur" data-id="id-5" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/kesra.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Maula alfin amaro.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>MAULA ALFIN AMARO</b></h6>
                                         <p>KEPALA SEKSI KESEJAHTERAAN</p>
@@ -259,7 +259,7 @@
 
                             <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/ngapaompu.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Sarto.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>SARTO</b></h6>
                                         <p>KEPALA SEKSI PELAYANAN</p>
@@ -279,7 +279,7 @@
                             <!-- Item Project and Filter Name -->
                             <li class="item-thumbs span3 kadus" data-id="id-0" data-type="kasi">
                                 <div class="team-box thumbnail animated-slow flyIn">
-                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/wapulaka.jpg" alt="" />
+                                    <img src="<?php echo base_url('public/'); ?>img/pemdes/Titi.jpg" alt="" />
                                     <div class="caption">
                                         <h6><b>TITI MARGI RAHAYU</b></h6>
                                         <p>STAF URUSAN KEUANGAN</p>

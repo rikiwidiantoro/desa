@@ -17,7 +17,7 @@
 
             <ul class="cat">
                 <?php foreach ($kategori as $row) : ?>
-                    <li><i class="icon-angle-right"></i> <a href="#"><?= $row['category']; ?></a><span> (20)</span></li>
+                    <li><i class="icon-angle-right"></i> <a href="#"><?= $row['category']; ?></a></li>
                 <?php endforeach; ?>
             </ul>
         </div>
