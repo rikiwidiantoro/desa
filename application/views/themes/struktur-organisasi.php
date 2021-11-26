@@ -35,7 +35,7 @@
                                         <p>KEPALA DESA</p>
                                         <ul class="social-network text-left">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=081335384342" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0813 3538 4342
                                                 </a>
                                             </li><br>
@@ -79,7 +79,7 @@
                                         <p>SEKRETARIS DESA</p>
                                         <ul class="social-network text-left">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=085204348565" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0852 0434 8565
                                                 </a>
                                             </li><br>
@@ -103,7 +103,7 @@
                                         <p>KEPALA URUSAN TATA USAHA dan UMUM</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=085732105519" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0857 3210 5519
                                                 </a>
                                             </li>
@@ -122,7 +122,7 @@
                                         <p>KEPALA URUSAN KEUANGAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=085559678382" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0855 5967 8382
                                                 </a>
                                             </li>
@@ -142,7 +142,7 @@
                                         <p>KEPALA URUSAN PERENCANAAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=081249600473" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0812 4960 0473
                                                 </a>
                                             </li>
@@ -161,7 +161,7 @@
                                         <p>KAMITUWO DUKUH JETIS</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=082132934393" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0821 3293 4393
                                                 </a>
                                             </li>
@@ -179,7 +179,7 @@
                                         <p>KAMITUWO DUKUH ASEMLEGI</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=08525990049" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0852 5990 0049
                                                 </a>
                                             </li>
@@ -198,7 +198,7 @@
                                         <p>KAMITUWO DUKUH BRENGGOLO</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=082332554395" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0823 3255 4395
                                                 </a>
                                             </li>
@@ -218,7 +218,7 @@
                                         <p>KEPALA SEKSI PEMERINTAHAN</p>
                                         <ul class="social-network text-left">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=085335345324" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0853 3534 5324
                                                 </a>
                                             </li><br>
@@ -242,7 +242,7 @@
                                         <p>KEPALA SEKSI KESEJAHTERAAN</p>
                                         <ul class="social-network text-left">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=081224119152" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0812 2411 9152
                                                 </a>
                                             </li><br>
@@ -265,7 +265,7 @@
                                         <p>KEPALA SEKSI PELAYANAN</p>
                                         <ul class="social-network">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=082232960756" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0822 3296 0756
                                                 </a>
                                             </li>
@@ -285,7 +285,7 @@
                                         <p>STAF URUSAN KEUANGAN</p>
                                         <ul class="social-network text-left">
                                             <li>
-                                                <a title="Telepon / Whatsapp">
+                                                <a href="https://api.whatsapp.com/send?phone=081232592282" target="_blank" title="Telepon / Whatsapp">
                                                     <i class="icon-circled icon-bglight icon-phone active"></i> 0812 3259 2282
                                                 </a>
                                             </li><br>
