@@ -9,7 +9,7 @@
                             <li><a href="#"><?= $row['category']; ?></a></li>
                         </ul>
                     <?php endforeach; ?> -->
-                    <h5 class="widgetheading">Sosial Media</h5>
+                    <h5 class="widgetheading">Kontak & Sosial Media</h5>
                     
                     <a title="Telepon"><i class="icon-phone"></i> 0813 3538 4342</a>
                     <br>
