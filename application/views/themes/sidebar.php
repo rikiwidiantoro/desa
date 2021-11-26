@@ -75,7 +75,7 @@
         </div>
         <div class="widget">
 
-            <h5 class="widgetheading">Text widget</h5>
+            <h5 class="widgetheading">Informasi Geografis</h5>
             <p style="text-align: justify;">
             Desa Plancungan merupakan desa yang memiliki potensi industri kerajinan gerabah. <br> Desa Plancungan berada di kecamatan Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia.
             </p>
