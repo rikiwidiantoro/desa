@@ -22,8 +22,8 @@
                 </ul>
 
                 <div class="clearfix"></div>
-                <div class="row">
-                    <section id="team">
+                <div class="row" style="background-image: url(<?php echo base_url('public/'); ?>img/slides/camera/slide1/balaidesa.jpeg);">
+                    <section id="team" style="margin-left: -15px; margin-top:20px;">
                         <ul id="thumbs" class="team">
 
                             <!-- Item Project and Filter Name -->

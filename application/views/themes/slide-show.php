@@ -6,7 +6,7 @@
     <div class="camera_wrap" id="camera-slide">
 
         <?php foreach ($news as $row) : ?>
-            <div data-src="<?php echo base_url('public/'); ?>img/slides/camera/slide1/img1.jpg">
+            <div data-src="<?php echo base_url('public/'); ?>img/slides/camera/slide1/masukdesa.jpeg">
                 <div class="camera_caption fadeFromLeft">
                     <div class="container">
                         <div class="row">
