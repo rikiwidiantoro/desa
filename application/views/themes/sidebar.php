@@ -60,24 +60,24 @@
 
         <div class="widget">
 
-            <h5 class="widgetheading">Video widget</h5>
+            <h5 class="widgetheading">Video Profil Desa</h5>
             <div class="video-container">
                 <iframe src="https://www.youtube.com/embed/watch?v=eej2XLqoS3c&list=RDMMeej2XLqoS3c&start_radio=1" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class="widget">
+        <!-- <div class="widget">
             <h5 class="widgetheading">Flickr photostream</h5>
             <div class="flickr_badge">
                 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&amp;display=random&amp;size=s&amp;layout=x&amp;source=user&amp;user=34178660@N03"></script>
             </div>
             <div class="clear"></div>
-        </div>
+        </div> -->
         <div class="widget">
 
             <h5 class="widgetheading">Informasi Geografis</h5>
             <p style="text-align: justify;">
-            Desa Plancungan merupakan desa yang memiliki potensi industri kerajinan gerabah. <br> Desa Plancungan berada di kecamatan Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia.
+            Desa Plancungan merupakan desa yang memiliki potensi industri kerajinan gerabah. <br> Desa Plancungan berada di Kecamatan Slahung, Kabupaten Ponorogo, Jawa Timur, Indonesia.
             </p>
 
         </div>
