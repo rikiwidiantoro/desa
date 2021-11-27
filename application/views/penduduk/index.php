@@ -48,7 +48,7 @@
                         </tr>
                     </thead> -->
                     <tbody style="text-align:center;">
-                        <tr style="font-weight:bold; background-color:lightorange;">
+                        <tr style="font-weight:bold; background-color:coral; color:white;">
                             <td>NO</td>
                             <td>JETIS</td>
                             <td>L</td>
@@ -120,7 +120,7 @@
                         </tr>
                     </thead> -->
                     <tbody style="text-align:center;">
-                        <tr style="font-weight:bold; background-color:lightgrey;">
+                        <tr style="font-weight:bold; background-color:coral; color:white;">
                             <td>NO</td>
                             <td>ASEM LEGI</td>
                             <td>L</td>
@@ -184,7 +184,7 @@
                         </tr>
                     </thead> -->
                     <tbody style="text-align:center;">
-                        <tr style="font-weight:bold; background-color:lightgrey;">
+                        <tr style="font-weight:bold; background-color:coral; color:white;">
                             <td>NO</td>
                             <td>BRENGGOLO</td>
                             <td>L</td>

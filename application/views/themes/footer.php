@@ -11,9 +11,9 @@
                     <?php endforeach; ?> -->
                     <h5 class="widgetheading">Kontak & Sosial Media</h5>
                     
-                    <a title="Telepon"><i class="icon-phone"></i> 0813 3538 4342</a>
+                    <a href="https://api.whatsapp.com/send?phone=081335384342" target="_blank" title="Telepon / Whatsapp"><i class="icon-phone"></i> 0813 3538 4342</a>
                     <br>
-                    <a title="Google +"><i class="icon-google-plus icon-white"></i> pemdesplancungan@gmail.com</a>
+                    <a href="mailto:pemdesplancungan@gmail.com?subject=subject text" target="_blank" title="Google +"><i class="icon-google-plus icon-white"></i> pemdesplancungan@gmail.com</a>
                     <br>
                     <a href="https://instagram.com/desaplancungan?utm_medium=copy_link" target="_blank" data-placement="bottom" title="Instagram"><i class="icon-instagram icon-white"></i> desaplancungan</a>
                     <br>
