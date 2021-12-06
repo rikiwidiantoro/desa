@@ -16,9 +16,6 @@
                                 <a href="<?php echo base_url(); ?>artikel/readmore/<?php echo $row['id']; ?>" class="btn btn-success btn-large animated fadeInUp">
                                     <i class="icon-link"></i> Selengkapnya
                                 </a>
-                                <!-- <a href="#" class="btn btn-theme btn-large animated fadeInUp">
-                                    <i class="icon-download"></i> Download
-                                </a> -->
                             </div>
                             <div class="span6">
                                 <img src="<?= base_url('upload_file/images/' . $row['image']); ?>" alt="" class="animated bounceInDown delay1" />
