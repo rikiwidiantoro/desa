@@ -3,12 +3,6 @@
         <div class="row">
             <div class="span4">
                 <div class="widget">
-                    <!-- <h5 class="widgetheading">Kategori</h5>
-                    <?php foreach ($kategori as $row) : ?>
-                        <ul class="link-list">
-                            <li><a href="#"><?= $row['category']; ?></a></li>
-                        </ul>
-                    <?php endforeach; ?> -->
                     <h5 class="widgetheading">Kontak & Sosial Media</h5>
                     
                     <a href="https://api.whatsapp.com/send?phone=081335384342" target="_blank" title="Telepon / Whatsapp"><i class="icon-phone"></i> 0813 3538 4342</a>
@@ -28,11 +22,6 @@
                         Jl. Sawunggaling No.1, Desa Plancungan,<br> Kecamatan Slahung,
                         Kabupaten Ponorogo.<br> Kode Pos 63463 - Jawa Timur, Indonesia
                     </address>
-                    <!-- <p>
-                        Kontak : <br>
-                        <i class="icon-phone"></i> 0813 3538 4342<br>
-                        <i class="icon-envelope-alt"></i> pemdesplancungan@gmail.com
-                    </p> -->
                 </div>
             </div>
             <div class="span4">
